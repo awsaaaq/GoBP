@@ -1,3 +1,4 @@
+[中文](./readme_zh-CN.md)
 # GoBP
 An Bypass Antivirus Tool by Golang in windows
 
