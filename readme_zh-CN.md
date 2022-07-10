@@ -1,6 +1,7 @@
 [English](./readme.md)
 
 # GoBP
+免杀工具 Go语言编写
  - 免杀生成工具
  - 语言：Golang
  - 平台：Windows
