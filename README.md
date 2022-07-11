@@ -2,7 +2,6 @@
 # GoBP
 An Bypass Antivirus Tool by Golang in windows
 
-一个绕过杀毒软件 免杀的 工具，使用Golang 语言，在Windows上
 
  - Bypass Windows Defender
  - Bypass Kaspersky
