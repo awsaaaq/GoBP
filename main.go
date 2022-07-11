@@ -127,7 +127,7 @@ func genGoExe() {
 		fmt.Println(stderr3.String())
 		return
 	}
-	//os.RemoveAll("./GoBPTemp")
+	os.RemoveAll("./GoBPTemp")
 
 	cmd_go_strip := exec.Command("cmd.exe", "/c", "go-strip.exe -f ..\\GoBP.exe -a -output ..\\GoBP.exe")
 
