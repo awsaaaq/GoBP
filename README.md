@@ -5,6 +5,8 @@ An Bypass Antivirus Tool by Golang in windows
 
  - Bypass Windows Defender
  - Bypass Kaspersky
+ - Bypass 360 
+ - ...
 # Usages
 `
 git clone https://github.com/awsaaaq/GoBP.git
