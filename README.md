@@ -35,3 +35,9 @@ Close AntiVirus AutoUpload func!
 # Demo
 
 ![image](/images/Demo1.png)
+
+some China test result
+
+![image](/images/CNdemo1.png)
+
+![image](/images/CNdemo2.jpg)
