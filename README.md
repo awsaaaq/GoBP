@@ -1,4 +1,35 @@
 [中文](./readme_zh-CN.md)
+# Update
+Version 2.0
+Just offer main.exe 
+## What's Update
+- Random way to generate bypass antiviru payload
+- Add antiSanbox
+- Add antiVM
+- Bypass Windows Defender
+- Bypass Kaspersky
+- Bypass 360 
+...
+## Notes
+Please **Turn off** Antivirus software before execute main.exe!
+
+**Close** AntiVirus AutoUpload func!
+
+## Usages
+execute command as followed in current dir:
+
+```
+go get github.com/lxn/win
+go get golang.org/x/sys/windows
+```
+
+Put payload.bin in main.exe's directory
+
+Execute main.exe
+
+Generate an execute GoBP.exe and Gostrip.exe
+
+
 # GoBP
 An Bypass Antivirus Tool by Golang in windows
 
@@ -27,10 +58,7 @@ Generate an execute GoBP.exe
 
 ![image](/images/payload.png)
 
-# Notes
-Turn off Antivirus software before execute main.exe!
 
-Close AntiVirus AutoUpload func!
 
 # Demo
 
